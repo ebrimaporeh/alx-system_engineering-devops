@@ -1,1 +1,1 @@
-tasks on shell permission
+print working directory
