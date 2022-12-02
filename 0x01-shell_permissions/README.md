@@ -1,1 +1,1 @@
-task on shell permissions
+script for changing user name
