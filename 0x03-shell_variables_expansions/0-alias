@@ -1,2 +1,2 @@
 #!/bin/bash
-FileA ls='rm *'
+fileA ls='rm *'
